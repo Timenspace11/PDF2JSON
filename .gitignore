@@ -1,0 +1,12 @@
+# Node / React
+node_modules/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Misc
+.DS_Store
